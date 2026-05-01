@@ -1,3 +1,32 @@
+📖 Leitura Mágica: Adaptador Assistivo para Dislexia
+O Leitura Mágica é um projeto desenvolvido para transformar a experiência de leitura de crianças com dislexia e outras dificuldades de processamento visual. Utilizando princípios de Tecnologia Assistiva, o sistema adapta textos complexos em um formato amigável, reduzindo o esforço cognitivo e aumentando a autonomia do aluno.
+
+Este projeto faz parte do meu portfólio de transição para a tecnologia, unindo minha base acadêmica em Pedagogia e Filosofia com o desenvolvimento de software.
+
+✨ Funcionalidades Focadas no AEE
+Interface Calmante: Design minimalista com paletas de cores pastéis (azul, verde e creme) para reduzir o brilho da tela e o cansaço visual.
+
+Customização de Fonte: Permite aumentar o tamanho da letra e o espaçamento entre linhas em tempo real para evitar que as letras se "embaralhem".
+
+Destaque de Palavras: Cada palavra funciona como um bloco individual, ajudando a criança a focar na leitura fragmentada e evitar a perda de linha no parágrafo.
+
+Suporte Auditivo (Text-to-Speech): Integração com sintetizador de voz para que o aluno possa ouvir o texto, reforçando a associação entre fonema e grafema.
+
+Modo Professor vs. Aluno: Uma área limpa para o professor inserir o conteúdo e uma área de "jogo" para o aluno interagir com o texto.
+
+🛠️ Tecnologias Utilizadas
+Next.js 14 (App Router)
+
+Tailwind CSS (Estilização personalizada com cores pastéis)
+
+Lucide-React (Ícones intuitivos para navegação infantil)
+
+Web Speech API (Para o recurso de leitura em voz alta)
+
+🎯 Objetivo Pedagógico
+O objetivo deste adaptador não é apenas facilitar a leitura, mas transformar o ato de ler em um momento de descoberta e menos ansiedade. Ele permite que o professor adapte materiais em segundos, garantindo que a inclusão aconteça de forma prática e eficiente na sala de aula.
+
+=============================================================================================================================================================================================================
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
